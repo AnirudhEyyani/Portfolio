@@ -38134,7 +38134,7 @@ var config_color_scheme = "warning_yellow"
     animation: "fade_from_bottom",
     once: !1
 }
-  , config_profile_image_url = "assets/images/person1.jpg"
+  , config_profile_image_url = "assets/images/person3.jpg"
   , config_profile_image_effect = "tech"
   , config_profile_image_effect_url = "assets/images/effect_maps/custom.jpg"
   , config_profile_image_effect_intensity = .3
